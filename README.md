@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shishir008/Data-Structure-ALGO/tree/master/0011-container-with-most-water) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shishir008/Data-Structure-ALGO/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shishir008/Data-Structure-ALGO/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shishir008/Data-Structure-ALGO/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shishir008/Data-Structure-ALGO/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
