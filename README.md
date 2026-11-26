@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shishir008/Data-Structure-ALGO/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/shishir008/Data-Structure-ALGO/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shishir008/Data-Structure-ALGO/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/shishir008/Data-Structure-ALGO/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
